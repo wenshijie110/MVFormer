@@ -7,6 +7,7 @@ With the booming development of smart devices, mobile videos have drawn broad in
 
 ## Visualization of predicted saliency maps of our and other compared approaches over two mobile video clips in MVS dataset.
 
+![visualization](https://github.com/wenshijie110/MVFormer/assets/54231028/6ade5405-8148-4bfa-a7f9-2d66fb35e6fd)
 
 
-![Uploading visualization.png…]()
+
